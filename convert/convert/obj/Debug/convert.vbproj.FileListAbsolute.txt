@@ -1,0 +1,12 @@
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\bin\Debug\convert.exe.config
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\bin\Debug\convert.exe
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\bin\Debug\convert.pdb
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\bin\Debug\convert.xml
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.vbproj.AssemblyReference.cache
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.Form1.resources
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.Resources.resources
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.vbproj.GenerateResource.cache
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.vbproj.CoreCompileInputs.cache
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.exe
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.xml
+C:\Users\Godswill Asa\Desktop\SCHOOL WORK\convert\convert\obj\Debug\convert.pdb
